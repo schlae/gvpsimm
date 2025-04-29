@@ -17,8 +17,8 @@ slot. Be sure to select 1.2mm!
 
 ## DRAM Chips
 
-KM44C4000AS-6, K4F1704110-FC60, or equivalent 60ns fast page mode memory
-chips (16 megabit).
+KM44C4000AS-6, K4F1704110-FC60, HYB5116400BJ-60, or equivalent 60ns fast
+page mode memory chips (16 megabit).
 
 Be sure that the memory chip you select has a 12-bit row address and a 10-bit
 column address -- sometimes known as "4K refresh" because a full refresh
