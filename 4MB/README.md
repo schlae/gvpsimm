@@ -82,6 +82,5 @@ difficult to solder by hand. I recommend using a solder stencil and a
 reflow process.
 
 ## License
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
-International License. See [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).
 
+This project is licensed under the CERN Open Hardware License Version 2 - Permissive.
