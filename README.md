@@ -5,3 +5,4 @@ Amiga accelerator cards. Select a link below to pick a particular version.
 
 [4MB version](4MB/README.md)
 
+[16MB version](16MB/README.md)
